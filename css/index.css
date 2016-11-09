@@ -10,6 +10,14 @@
 #name {
   margin: 0.5em 0; }
 
+.progect {
+  font-size: 30px;
+  color:white;
+}
+#taskItem {
+  font-size: 26px;
+  color:white;
+}
 .reveal .title {
   margin-bottom: 1.1em; }
 
